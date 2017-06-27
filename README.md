@@ -14,13 +14,20 @@ Submissions which include tests will be looked upon more favourably
 Example:
 
  Male
+ 
     Angel
+    
     Molly
+    
     Tigger
     
+    
 Female
+
     Gizmo
+    
     Jasper
+    
     Notes
 
 Use of language features and/or libraries for grouping/sorting is encouraged. Eg: C# -> LINQ, Java8 -> Stream API, Javascript -> Lodash, Python -> List comprehension
