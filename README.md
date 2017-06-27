@@ -13,16 +13,15 @@ Submissions which include tests will be looked upon more favourably
 
 Example:
 
-Male
-
-Angel
-Molly
-Tigger
+ Male
+    Angel
+    Molly
+    Tigger
+    
 Female
-
-Gizmo
-Jasper
-Notes
+    Gizmo
+    Jasper
+    Notes
 
 Use of language features and/or libraries for grouping/sorting is encouraged. Eg: C# -> LINQ, Java8 -> Stream API, Javascript -> Lodash, Python -> List comprehension
 Use of libraries for consumption of web services is encouraged. Eg: C# -> HttpClient, Java -> HttpClient, Javascript -> jQuery
