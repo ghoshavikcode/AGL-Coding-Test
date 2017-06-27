@@ -1,0 +1,18 @@
+
+body {
+    background: rgb(245, 245, 245) url(https://portal.papercut.com/img/resellers/hero.png) repeat center;
+}
+.wrap {
+    width: 25%;
+    margin: 3rem auto;
+    background: #fff;
+    padding: 2rem; 
+}
+ul { 
+    list-style: none; 
+    margin: 1rem 0;
+}
+ul li{
+    line-height: 1.7;
+}
+
